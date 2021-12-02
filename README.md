@@ -1,6 +1,6 @@
 # Lexy Newby 
 
-A big hello and welcome to my Github! I am currently a Front-End Software Developer student at Turing School of Software Development & Design.
+A big hello and welcome to my Github! I am currently a Front-End Software Developer student at Turing School of Software & Design.
 
 ![Lexy Object Image](https://user-images.githubusercontent.com/89421307/144506183-2a572503-05fa-4e34-9468-67c1e39d4d84.png)
 
