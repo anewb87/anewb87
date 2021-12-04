@@ -2,7 +2,8 @@
 
 A big hello and welcome to my Github! I am currently a Front-End Software Developer student at Turing School of Software & Design.
 
-![Lexy Object Image](https://user-images.githubusercontent.com/89421307/144625817-1293ad6f-57c0-4e67-887a-1bf0cff8a4fd.png)
+<img width="559" alt="Screen Shot 2021-12-04 at 9 21 39 AM" src="https://user-images.githubusercontent.com/89421307/144716819-866813e2-df99-4efe-8580-00151a5b5f8a.png">
+
 
 
 ## Contact Me
