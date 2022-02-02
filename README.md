@@ -1,6 +1,6 @@
 # Lexy Newby 
 
-A big hello and welcome to my Github! I am a long-distance-hiking, book-loving, musical-shower-singing, former educator who's currently a Front-End Software Developer student at ![Turing School of Software & Design](https://turing.edu/).
+A big hello and welcome to my Github! I am a long-distance-hiking, book-loving, musical-shower-singing, former educator who's currently a Front-End Software Developer student at [Turing School of Software & Design](https://turing.edu/).
 
 <img width="559" alt="Screen Shot 2021-12-04 at 9 21 39 AM" src="https://user-images.githubusercontent.com/89421307/152239284-fd4c35d2-ae81-4ac5-b615-dde6d61a8b51.png">
 
